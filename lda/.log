@@ -22,3 +22,24 @@
 2021-02-23 15:34:58,272 [3665] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2021-02-23 15:34:58,274 [3665] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2021-02-23 15:34:58,275 [3665] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 17:12:48,280 [4209] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 17:12:48,281 [4209] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 17:12:48,281 [4209] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 17:12:48,283 [4209] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 17:12:48,284 [4209] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 17:12:48,284 [4209] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 17:12:48,798 [4209] WARNING  py.warnings:109: [JupyterRequire] /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ipykernel/ipkernel.py:283: DeprecationWarning: `should_run_async` will not call `transform_cell` automatically in the future. Please pass the result to `transformed_cell` argument and any exception that happen during thetransform in `preprocessing_exc_tuple` in IPython 7.17 and above.
+  and should_run_async(code)
+
+2021-03-06 17:13:25,788 [4209] WARNING  py.warnings:109: [JupyterRequire] /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ipykernel/ipkernel.py:283: DeprecationWarning: `should_run_async` will not call `transform_cell` automatically in the future. Please pass the result to `transformed_cell` argument and any exception that happen during thetransform in `preprocessing_exc_tuple` in IPython 7.17 and above.
+  and should_run_async(code)
+
+2021-03-06 17:13:31,571 [4209] WARNING  py.warnings:109: [JupyterRequire] /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ipykernel/ipkernel.py:283: DeprecationWarning: `should_run_async` will not call `transform_cell` automatically in the future. Please pass the result to `transformed_cell` argument and any exception that happen during thetransform in `preprocessing_exc_tuple` in IPython 7.17 and above.
+  and should_run_async(code)
+
+2021-03-06 17:13:37,196 [4209] WARNING  py.warnings:109: [JupyterRequire] /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ipykernel/ipkernel.py:283: DeprecationWarning: `should_run_async` will not call `transform_cell` automatically in the future. Please pass the result to `transformed_cell` argument and any exception that happen during thetransform in `preprocessing_exc_tuple` in IPython 7.17 and above.
+  and should_run_async(code)
+
+2021-03-06 17:14:10,340 [4209] WARNING  py.warnings:109: [JupyterRequire] /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ipykernel/ipkernel.py:283: DeprecationWarning: `should_run_async` will not call `transform_cell` automatically in the future. Please pass the result to `transformed_cell` argument and any exception that happen during thetransform in `preprocessing_exc_tuple` in IPython 7.17 and above.
+  and should_run_async(code)
+
