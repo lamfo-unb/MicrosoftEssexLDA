@@ -1,13 +1,13 @@
 # MicrosoftEssexLDA
 
-This is a project executed between LAMFO (Univesity of Brasilía) and UoE (University of Essex) in a coloboration fomented by Microsoft AI for Health for analysing misinformation regarding Covid-19 on News Outlets. 
+This is a project executed between LAMFO (University of Brasilía) and UoE (University of Essex) in a collaboration fomented by Microsoft AI for Health for analysing misinformation regarding Covid-19 on News Outlets. 
 
 ## Pattern
 
 [Pattern for extracted data - Google Drive](https://docs.google.com/spreadsheets/d/1hpcQpL-gr6xjvaRqL07pfX3jDJOIG9cYnHjnQPhDY2w/edit#gid=0)
 
-Basic naming convention for columns: 'URL', 'Date', 'Source', 'Categories', 'Search Terms', 'Text', 'Author', 'Country'
-There may have more columns (as index) but only this will be used as of now.
+Basic naming convention for columns: 'URL', 'Date', 'Source', 'Categories', 'Search Terms', 'Text', 'Author', 'Country'.
+There may have more optional columns (as index) but only this will be used as of now.
 
 Naming convention for folders (regarding the project [MicrosoftEssexScrapers](https://github.com/lamfo-unb/MicrosoftEssexScrapers)): results/NAMEOFSOURCE
 
