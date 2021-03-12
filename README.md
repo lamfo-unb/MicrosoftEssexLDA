@@ -15,13 +15,15 @@ Naming convention for the file collected (please note there may be only one file
 
 ## Other project links
 
-[Real time classification of text](https://dashboard.heroku.com/apps/lamfoessex)
+[Real time classification of text](https://lamfoessex.herokuapp.com)
 
 [Scrapers and data from news outlets](https://github.com/lamfo-unb/MicrosoftEssexScrapers)
 
 [Heroku github project](https://github.com/lamfo-unb/MicrosoftEssexHeroku)
 
-[Link to LDA training file](https://github.com/lamfo-unb/MicrosoftEssexLDA/blob/main/lda/lda.ipynb) or [the same link on LAMFO website](https://lamfo.unb.br/portfolio/university-of-essex-microsoft-ai-for-health-nlp-para-covid-19/)
+[Link to LDA training file](https://github.com/lamfo-unb/MicrosoftEssexLDA/blob/main/lda/lda.ipynb) 
+
+[LAMFO project page](https://lamfo.unb.br/portfolio/university-of-essex-microsoft-ai-for-health-nlp-para-covid-19/)
 
 [Project event with the Univesity of Essex](https://www.essex.ac.uk/events/2020/12/02/mm-seminar-curbing-misinformation-information-extraction-categorization-visualisation)
 
