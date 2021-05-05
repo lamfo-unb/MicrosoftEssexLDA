@@ -236,7 +236,7 @@ for i in range(0,len(num_topics)-1):
                         break
 
 print(md)
-text_file = open("../../MicrosoftEssexHeroku/sites.txt", "w")
+text_file = open("lda/sites.txt", "w")
 n = text_file.write(md)
 text_file.close()
                         

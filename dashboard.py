@@ -16,7 +16,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 st.set_page_config(layout='wide')
 
-# api = st.secrets("api")
+api = st.secrets["api"]
 
 f = open("results/LDA.html" , "r")
 data = f.read()
@@ -167,7 +167,7 @@ with st.beta_expander('See LDA topics distribution'):
 with st.beta_expander('See examples for each topic'):
 
     st.warning("Examples will need to be better choosen, consider them only as one extra reference.")
-    f = open("sites.txt" , "r")
+    f = open("lda/sites.txt" , "r")
     data = f.read()
     st.markdown(data)
 
